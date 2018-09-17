@@ -1,0 +1,19 @@
+{
+  "name": "sean-weather",
+  "version": "1.0.7",
+  "description": "a cli tool for getting weather information",
+  "main": "index.js",
+  "bin": {
+    "tq": "./bin/getWeather.js"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "nineSean<ninesean1989@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
